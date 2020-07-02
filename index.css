@@ -3,3 +3,7 @@ body{
     height: 100%;
     background: #000;
 }
+div{
+    height: 50px;
+    width: 50px;
+}
